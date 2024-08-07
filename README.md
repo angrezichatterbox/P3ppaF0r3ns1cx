@@ -12,7 +12,7 @@ PepegaForensice is a versatile steganography tool designed for embedding and ext
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/pepegaforensice.git
+   git clone https://github.com/angrezichatterbox/P3ppaF0r3ns1cx.git
    ```
 
 2. **Navigate to the Directory**
