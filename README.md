@@ -30,7 +30,7 @@ PepegaForensice is a versatile steganography tool designed for embedding and ext
 4. **Run the Tool**
 
    ```bash
-   python P3ppaF0r3ns1cx.py
+   python cli.py
    ```
 
 ## Usage
